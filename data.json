@@ -1,0 +1,42 @@
+{
+  "name" : "Ryu",
+  "rank" : "red belt",
+  "available" : "true",
+  "geometry" : {"type" : "point", "coordinates" : [-80, 25.791]}
+},
+{
+  "name" : "Yoshi",
+  "rank" : "black belt",
+  "available" : "true",
+  "geometry" : {"type" : "point", "coordinates" : [-80.245, 25.391]}
+},
+{
+  "name" : "Crystal",
+  "rank" : "pink belt",
+  "available" : "true",
+  "geometry" : {"type" : "point", "coordinates" : [-80.789, 25.701]}
+},
+{
+  "name" : "Mario",
+  "rank" : "blue belt",
+  "available" : "true",
+  "geometry" : {"type" : "point", "coordinates" : [-80.589, 25.701]}
+},
+{
+  "name" : "Luigi",
+  "rank" : "orange belt",
+  "available" : "true",
+  "geometry" : {"type" : "point", "coordinates" : [-81.1, 24.95]}
+},
+{
+  "name" : "Hitaki",
+  "rank" : "green belt",
+  "available" : "true",
+  "geometry" : {"type" : "point", "coordinates" : [-81.9, 25.44]}
+},
+{
+  "name" : "Brick",
+  "rank" : "Cyan belt",
+  "available" : "true",
+  "geometry" : {"type" : "point", "coordinates" : [-80.9, 25.95]}
+}
