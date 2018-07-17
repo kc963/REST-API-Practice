@@ -1,12 +1,14 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
-
+var path = require('path');
 const app = express();
 
 //connect to mongoDB
 mongoose.connect('mongodb://localhost/ninjago');
 mongoose.Promise = global.Promise;
+
+app.use(express.static('public'));
 
 app.use(bodyParser.json());
 

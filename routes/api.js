@@ -12,8 +12,6 @@ router.get('/ninjas', function(req, res, next){
     }
   }]).then(function(results){
     res.send(results);
-    console.log("hello");
-    console.log(results);
   });
   //Ninja.geoNear(
   //  {type: 'Point', coordinates: [parseFloat(req.query.lng), parseFloat(req.query.lat)]},
